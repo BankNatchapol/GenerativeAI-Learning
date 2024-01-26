@@ -1,5 +1,5 @@
 # GenerativeAI-Learning
-[Image Generation](#image-generation)
+- [Image Generation](#image-generation)
 
 ## Image Generation
 - CLIP
